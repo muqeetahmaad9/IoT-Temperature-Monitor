@@ -39,7 +39,7 @@ Reads temperature and humidity from a DHT11 sensor on an ESP8266 and publishes t
 ### 🚀 Getting Started
 
 ```cpp
-// Open `code` in the Arduino IDE
+// Open iot_temperature_monitor.ino in the Arduino IDE
 // Install: DHT sensor library, ESP8266WiFi
 // Set ssid and password, then upload
 ```
